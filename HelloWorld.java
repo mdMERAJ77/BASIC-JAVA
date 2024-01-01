@@ -3,3 +3,7 @@ public class HelloWorld {
         System.out.println("HELLO WORLD");
     }
 }
+
+// note  How to use terminal for output
+// javac .\HelloWorld.java
+// java HelloWorld
