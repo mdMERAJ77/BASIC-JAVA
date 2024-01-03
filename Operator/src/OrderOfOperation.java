@@ -17,5 +17,10 @@ public class OrderOfOperation {
         int p=4,q=3,r=2;
         int Sum=p-++r-++q;      // +,- Associativity (left to right)
         System.out.println("Sum is: "+Sum);
+
+        Boolean a=false;
+        Boolean b=false;
+        Boolean c=true;
+        System.out.println(a==b==c);    // ture
     }
 }
