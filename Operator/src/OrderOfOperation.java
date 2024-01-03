@@ -11,10 +11,11 @@ public class OrderOfOperation {
         System.out.println(9/3*6/6);
         System.out.println(9/3*2/6);
 
+        System.out.println(4+2+"pqr");  // output = 6pqr   left to right (Associativity)
+        System.out.println("pqr"+4+2);  // output = pqr42   left to right (Associativity)
 
         int p=4,q=3,r=2;
         int Sum=p-++r-++q;      // +,- Associativity (left to right)
         System.out.println("Sum is: "+Sum);
-
     }
 }
