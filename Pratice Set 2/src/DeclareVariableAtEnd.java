@@ -1,5 +1,3 @@
-
-
 public class DeclareVariableAtEnd {
     public static void main(String[] args) {
         Msg="Hello Java Developer";
