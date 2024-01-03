@@ -1,4 +1,4 @@
-import java.security.MessageDigest;
+
 
 public class DeclareVariableAtEnd {
     public static void main(String[] args) {
