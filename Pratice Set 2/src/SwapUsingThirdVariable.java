@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SwapToNumber
+public class SwapUsingThirdVariable
 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
