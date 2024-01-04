@@ -15,3 +15,7 @@ public class IfElse {
         System.out.println("Before if");
     }
 }
+/* Output:-  After if
+             Ms.Bob
+             Before if
+*/
