@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class IfElse {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Welcom to Driving License Portal...");
+        System.out.println("Welcome to Driving License Portal...");
         System.out.print("Please Enter Your Age:- ");
 
         int age=sc.nextInt();
