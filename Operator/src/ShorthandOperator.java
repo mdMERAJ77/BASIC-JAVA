@@ -8,18 +8,19 @@ public class ShorthandOperator {
         int x1=sc.nextInt();
         a=a+x1;
         System.out.println("a is "+a);
+
         // Now
         System.out.print("Enter the value of x2: ");
         int x2=sc.nextInt();
-        a+=x2;
+        a+=x2;  // can also be written like this:-  a=a+x2;
         System.out.println("a is "+a);
-        a*=x2;
+        a*=x2;  // a=a*x2;
         System.out.println("a is "+a);
-        a/=x2;
+        a/=x2;  // a=a/x2;
         System.out.println("a is "+a);
-        a-=x2;
+        a-=x2;  // a=a-x2;
         System.out.println("a is "+a);
-        a%=x2;
+        a%=x2;  // a=a%x2
         System.out.println("a is "+a);
     }
 }
