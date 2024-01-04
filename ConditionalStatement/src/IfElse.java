@@ -4,7 +4,7 @@ public class IfElse {
         String Name="Bob";
 
         System.out.println("After if");
-        if(IsMale)
+        if(IsMale)    // Here Condition is false so, Skip this (if block code) and jump (else block)
         {
             System.out.println("Mr."+Name);
         }
