@@ -1,4 +1,4 @@
-public class BitwiseXorOperator {
+public class BitwiseXorOperator {       // also known as Bitwise exclusive OR
     public static void main(String[] args) {
 
         int p=9, q=10;      // 9  Binary Number= 1 0 0 1
