@@ -13,7 +13,7 @@ public class SwitchCase {
                 System.out.println("Tuesday");
                 break;
             case 3:
-                System.out.println("Wednesday");
+                System.out.println("Wednesday" );
                 break;
             case 4:
                 System.out.println("Thursday");
