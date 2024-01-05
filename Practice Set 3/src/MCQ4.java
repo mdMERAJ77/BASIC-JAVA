@@ -3,7 +3,7 @@ public class MCQ4 {
         int x=60, y=90;
         if(y*x == 540 || x+y == 150)
         {
-            System.out.println("Good");
+            System.out.println("Good ");
         }
         else
         {
