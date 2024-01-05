@@ -13,7 +13,7 @@ public class WhileLoop
        }
 
 
-        System.out.println("Reverse Number");
+        System.out.println("Reverse Number ");
        int num=10;
        while (num >=1)
        {
