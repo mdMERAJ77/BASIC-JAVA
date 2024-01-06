@@ -7,7 +7,7 @@ public class Continue {
             {
                 continue;
             }
-            System.out.println(i);      // Output 1 2 3 Here 4 not print and jump 5 6 7
+            System.out.println(i);      // Output 1 2 3 5 6 7 Here 4 skip in program
         }
     }
 }
