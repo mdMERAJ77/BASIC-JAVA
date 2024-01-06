@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class WhileLoop {
     public static void main(String[] args) {
-        //Print the sum of the first n natural numbers,where n is the input
         Scanner sc=new Scanner(System.in);
         System.out.print("Please Enter the number:- ");
         int number=sc.nextInt();
