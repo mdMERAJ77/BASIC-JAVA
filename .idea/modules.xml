@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BreakContinue/BreakContinue.iml" filepath="$PROJECT_DIR$/BreakContinue/BreakContinue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA2.0.iml" filepath="$PROJECT_DIR$/.idea/JAVA2.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Comments/Java Comments.iml" filepath="$PROJECT_DIR$/Java Comments/Java Comments.iml" />
