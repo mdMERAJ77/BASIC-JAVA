@@ -13,7 +13,7 @@ public class WhileLoop {
               i++;
              */
 // Here both are correct but:-  sum = sum+=i; better than sum=i+number;
-            sum =sum+ i; // Add i to the sum, not to the number
+            sum += i; // Add i to the sum, not to the number
             i++;
 
             System.out.println("sum is:- "+sum);
