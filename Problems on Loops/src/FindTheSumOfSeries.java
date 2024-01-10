@@ -23,3 +23,11 @@ public class FindTheSumOfSeries {
     }
 
 }
+/* For Example user Enter 5
+For i = 1 (odd), ans = 0 + 1 = 1
+For i = 2 (even), ans = 1 - 2 = -1
+For i = 3 (odd), ans = -1 + 3 = 2
+For i = 4 (even), ans = 2 - 4 = -2
+For i = 5 (odd), ans = -2 + 5 = 3
+So, the sum of the series S = 1 - 2 + 3 - 4 + 5 up to n = 5 is 3.
+*/
