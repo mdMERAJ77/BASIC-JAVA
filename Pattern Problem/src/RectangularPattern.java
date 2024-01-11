@@ -3,10 +3,10 @@ public class RectangularPattern {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-        System.out.println("Enter the row: ");
+        System.out.print("Enter the row: ");
         int row=sc.nextInt();
 
-        System.out.println("Enter the column: ");
+        System.out.print("Enter the column: ");
         int column=sc.nextInt();
 
         for(int i =1; i<=row; i++)
