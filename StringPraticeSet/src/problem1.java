@@ -4,5 +4,6 @@ public class problem1 {
     {
         String text="Hello java developer";
         System.out.println(text.replace("e","_")); //OUTPUT H_llo java d_v_lop_r
+        System.out.println(text.replace(" ","_"));  //OUTPUT Hello_java_developer
     }
 }
