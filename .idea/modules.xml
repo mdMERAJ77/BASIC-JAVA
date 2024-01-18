@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BreakContinue/BreakContinue.iml" filepath="$PROJECT_DIR$/BreakContinue/BreakContinue.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPsConcept/Classes And Objects/Classes And Objects.iml" filepath="$PROJECT_DIR$/OOPsConcept/Classes And Objects/Classes And Objects.iml" />
