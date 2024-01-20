@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array Pratice Set/Array Pratice Set.iml" filepath="$PROJECT_DIR$/Array Pratice Set/Array Pratice Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BreakContinue/BreakContinue.iml" filepath="$PROJECT_DIR$/BreakContinue/BreakContinue.iml" />
