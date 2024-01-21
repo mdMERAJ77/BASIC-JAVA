@@ -17,7 +17,10 @@ class ArrayClass1 {
                 System.out.println("Index of " + x + ": " + i);
             }
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 666435acef3880ccc072f038bedb0d8c318ae7bb
     }
 }
 
