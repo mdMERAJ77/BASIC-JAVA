@@ -9,18 +9,24 @@ class ArrayClass1 {
         // Specify the element to search for
         int x = 3;
 
+        // Flag to check if at least one occurrence is found
+        boolean found = false;
+
         // Iterate through the array to search for the specified element
         for (int i = 0; i < array.length; i++) {
             // Check if the current element is equal to the specified element
             if (x == array[i]) {
                 // Print the index of the element if found
                 System.out.println("Index of " + x + ": " + i);
+                // Set the flag to true since at least one occurrence is found
+                found = true;
             }
         }
-<<<<<<< HEAD
 
-=======
->>>>>>> 666435acef3880ccc072f038bedb0d8c318ae7bb
+        // If the element is not found, print "Not found"
+        if (!found) {
+            System.out.println("Not found");
+        }
     }
 }
 
