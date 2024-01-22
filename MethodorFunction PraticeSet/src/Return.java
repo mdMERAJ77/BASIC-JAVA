@@ -24,8 +24,7 @@ public class Return {
     public static int AddToNumber() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number: ");
-        int number = sc.nextInt();
-        return number;
+        return sc.nextInt();
     }
     public static void greet(){
         System.out.println("Welcome...");
