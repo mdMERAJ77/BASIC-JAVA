@@ -11,19 +11,19 @@ public class FindGCD {
         int second = sc.nextInt();
 
         // Calculating GCD using the provided method
-        int gcd = gcd(first, second);
+        int gcd = calculateGCD(first, second);
 
         // Output: Displaying the calculated GCD
         System.out.print("GCD of the two numbers is: " + gcd);
     }
 
     // Function to calculate GCD using iterative approach
-    public static int gcd(int num1, int num2) {
+    public static int calculateGCD(int num1, int num2) {
         int gcd = 1;
         int i = 2;
 
-        // Find the least of the two numbers
-        int least = least(num1, num2);
+        // Find the minimum of the two numbers
+        int least = Math.min(num1, num2);
 
         // Iterate from 2 to the minimum of the two numbers
         while (i <= least) {
@@ -35,11 +35,5 @@ public class FindGCD {
         }
 
         return gcd;
-    }
-
-    // Function to find the smaller of two numbers
-    public static int least(int num1, int num2) {
-        // Return the smaller of the two numbers
-        return (num1 < num2) ? num1 : num2;
     }
 }
